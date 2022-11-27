@@ -18,15 +18,15 @@ Heading H3
 
 ## Énfasis
 
-Muestra el texto en cursiva
+Muestra el texto en _cursiva_
 
     _Text_
 
-Muestra el texto en negrita
+Muestra el texto en **negrita**
 
     **Text**
 
-Muestra el texto en cursiva y negrita
+Muestra el texto en **_cursiva y negrita_**
 
     **_Text_**
 
