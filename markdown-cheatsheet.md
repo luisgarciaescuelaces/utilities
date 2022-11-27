@@ -72,7 +72,7 @@ Lista de tareas
 
 Despues de cada item hay que poner tabulador o bien doble salto de linea
 
-## BLOQUES
+## Bloques
 
 As Grace Hopper said:
 
@@ -95,7 +95,7 @@ Se puede utilizar el caracter de escape \ para poder utilizar cualquier simbolo.
     \$
     \&
 
-## IMAGENES
+## Imágenes
 
     Format: ![Texto alternativo](url)
 
@@ -104,7 +104,7 @@ GitHub Logo Format: Texto alternativo
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
 
-## ENLACES
+## Enlaces
 
 http://github.com - automatic!
 [GitHub](http://github.com)
@@ -112,7 +112,7 @@ http://github.com - automatic!
 
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-## TABLAS
+## Tablas
 Encabezado 1 	Encabezado 2
 Celda 1-1 	Celda 1-2
 Celda 2-1 	Celda 2-2
@@ -122,16 +122,9 @@ Encabezado 1|Encabezado 2
 Celda 1-1|Celda 1-2
 Celda 2-1|Celda 2-2
 
-## EMOJIS
+## Emojis
 
-:smile:
+    :smile:  :+1:  :octocat:  :sparkle:  :+1:  :octocat:
+:smile:  :+1:  :octocat:  :sparkle:  :+1:  :octocat:
 
-:+1:
-
-:octocat:
-
-:sparkle:
-
-:+1:
-
-:octocat:
+[http://emoji-cheat-sheet.com/](http://emoji-cheat-sheet.com/)
