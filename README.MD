@@ -1,10 +1,10 @@
-# Repositorio de utilidades
+# Repositorio de utilidades / Utilities Repository
 
-## Abecedario 
-### Español
+## Abecedario / alphabet
+### Español / spanish
 A B C D E F G H I J K L M N Ñ O P Q R S T U V W X Y Z 
 
-### Inglés
+### Inglés / english
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 
 
 # Fake data
